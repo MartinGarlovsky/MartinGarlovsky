@@ -3,7 +3,7 @@
 
 # MartinGarlovsky's Website
 
-An engaging 1-3 sentence description of your lab.
+I am an evolutionary biologist interested in understanding how interactions between the sexes both before and after mating shape the evolution of populations and traits; from genes, to physiology to behaviour. I use a range of tools including high throughput quantitative proteomics, transcriptomics, experimental evolution, and classical genetics.
 
 {% include section.html %}
 
