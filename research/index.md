@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+I am an evolutionary biologist interested in understanding how interactions between the sexes both before and after mating shape the evolution of populations and traits; from genes, to physiology to behaviour. I use a range of tools including high throughput quantitative proteomics, transcriptomics, experimental evolution, and classical genetics.
 
 {% include section.html %}
 
