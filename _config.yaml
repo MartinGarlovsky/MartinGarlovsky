@@ -1,18 +1,17 @@
 # site properties and page defaults
-title: MartinGarlovsky
+title: Martin Garlovsky
 subtitle: 
 description: An engaging 1-3 sentence description of your lab.
-header: images/background.jpg
-footer: images/background.jpg
+header: images/Fig_1.pdf
+footer: images/Fig_1.pdf
 
 # site social media and other links
 links:
   email: contact@MartinGarlovsky.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  orcid: 0000-0002-3426-4341
+  google-scholar: https://scholar.google.co.uk/citations?user=s4gagHAAAAAJ&hl=en
   github: MartinGarlovsky
   twitter: MartinGarlovsky
-  youtube: MartinGarlovsky
 
 ### jekyll settings
 
