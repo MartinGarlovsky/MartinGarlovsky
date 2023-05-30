@@ -1,7 +1,7 @@
 ---
 ---
 
-# MartinGarlovsky's Website
+# Martin Garlovsky's Website
 
 I am an evolutionary biologist interested in understanding how interactions between the sexes both before and after mating shape the evolution of populations and traits; from genes, to physiology to behaviour. I use a range of tools including high throughput quantitative proteomics, transcriptomics, experimental evolution, and classical genetics.
 
