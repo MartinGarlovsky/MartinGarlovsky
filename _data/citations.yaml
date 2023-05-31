@@ -12,7 +12,6 @@
   orcid: 0000-0002-3426-4341
   plugin: sources.py
   file: sources.yaml
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
 - id: doi:10.1111/jeb.14003
   title: "Experimental sexual selection affects the evolution of physiological and\
     \ life\u2010history traits"
@@ -28,7 +27,6 @@
   orcid: 0000-0002-3426-4341
   plugin: sources.py
   file: sources.yaml
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
 - id: doi:10.1098/rstb.2020.0071
   title: Within-population sperm competition intensity does not predict asymmetry
     in conpopulation sperm precedence
@@ -43,7 +41,6 @@
   orcid: 0000-0002-3426-4341
   plugin: sources.py
   file: sources.yaml
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
 - id: doi:10.1111/mec.15636
   title: Seminal fluid protein divergence among populations exhibiting postmating
     prezygotic reproductive isolation
