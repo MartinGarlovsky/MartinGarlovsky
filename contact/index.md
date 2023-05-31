@@ -20,8 +20,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="+49 351 46335347"
+  link="+49 351 46335347"
 %}
 {%
   include button.html
