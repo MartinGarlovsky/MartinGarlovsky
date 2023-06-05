@@ -1,6 +1,9 @@
 - id: doi:10.1101/2022.02.04.479202
 - id: doi:10.1016/j.mcpro.2022.100281
+  image: images/GA_v1.5.2.tif
 - id: doi:10.1111/jeb.14003
+  image: images/Figure_2.png
 - id: doi:10.1098/rstb.2020.0071
+  image: 
 - id: doi:10.1111/mec.15636
 - id: doi:10.1002/ece3.4441
